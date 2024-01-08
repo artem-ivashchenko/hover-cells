@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hover-cells/static/css/main.8a685450.css",
+    "main.js": "/hover-cells/static/js/main.ed58aad5.js",
+    "index.html": "/hover-cells/index.html",
+    "main.8a685450.css.map": "/hover-cells/static/css/main.8a685450.css.map",
+    "main.ed58aad5.js.map": "/hover-cells/static/js/main.ed58aad5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a685450.css",
+    "static/js/main.ed58aad5.js"
+  ]
+}
